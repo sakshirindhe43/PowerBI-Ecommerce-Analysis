@@ -43,14 +43,14 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
   - Highest profits in January, March, and November  
   - Negative profit in May, June, and December – needs attention
 
-- ** Sub-category Profit:**
+- Sub-category Profit:
   - Printers and Bookcases are top-performing  
   - Sarees, Accessories, and Tables have relatively lower profit margins
 
 - **🎛 Interactive Filters:**
   - Quarter and State slicers for drilling down into specific views
 
----
+
 
 ##  Files Included
 
@@ -62,13 +62,13 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 | `PBI_Dashboard_SS.png`   | Screenshot of the Power BI dashboard     |
 | `README.md`              | Project documentation (this file)        |
 
----
+
 
 ##  Dashboard Preview
 
 ![Dashboard Screenshot](PBI_Dashboard_SS.png)
 
----
+
 
 ##  Business Questions Answered
 
@@ -79,7 +79,7 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 - Which payment modes are preferred by customers?
 - Which sub-categories are contributing the most to profit?
 
----
+
 
 ##  Tools & Technologies Used
 
@@ -88,6 +88,6 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 - Data modeling and relationships
 - Interactive visualizations
 
----
+
 
 
