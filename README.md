@@ -15,31 +15,31 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 
 ##  Key Dashboard Insights
 
-- ** KPI Cards:**
+- **KPI Cards:**
   -  Total Sales: ₹438K
   -  Total Profit: ₹37K
   -  Quantity Sold: 5615
   -  Average Order Value (AOV): ₹121K
 
-- ** Regional Performance:**
+- **Regional Performance:**
   - Top States by Sales: Maharashtra, Madhya Pradesh, Uttar Pradesh
 
-- ** Top Customers:**
+- **Top Customers:**
   - Harinarayan and Madhu are high-value customers by order value
 
-- ** Category Performance:**
+- **Category Performance:**
   -  Clothing: 63% of total quantity sold  
   -  Electronics: 21%  
   -  Furniture: 17%
 
-- ** Payment Mode Distribution:**
+- **Payment Mode Distribution:**
   - COD (Cash on Delivery): 44%
   - UPI: 21%
   - Debit Card: 13%
   - Credit Card: 12%
   - EMI: 10%
 
-- ** Profit Trends (Monthly):**
+- **Profit Trends (Monthly):**
   - Highest profits in January, March, and November  
   - Negative profit in May, June, and December – needs attention
 
@@ -47,7 +47,7 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
   - Printers and Bookcases are top-performing  
   - Sarees, Accessories, and Tables have relatively lower profit margins
 
-- **🎛 Interactive Filters:**
+- **Interactive Filters:**
   - Quarter and State slicers for drilling down into specific views
 
 
