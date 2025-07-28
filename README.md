@@ -2,7 +2,6 @@
 
 This project presents a fully interactive and data-driven **Ecommerce Sales Dashboard** created using **Power BI**. It helps in understanding customer behavior, regional trends, and product performance to support **data-based decision-making** in ecommerce business operations.
 
----
 
 ##  Project Objective
 
@@ -13,7 +12,6 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 - Track **monthly profit trends**
 - Evaluate **preferred payment modes**
 
----
 
 ##  Key Dashboard Insights
 
