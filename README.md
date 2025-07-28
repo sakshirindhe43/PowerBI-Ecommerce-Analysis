@@ -43,7 +43,7 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
   - Highest profits in January, March, and November  
   - Negative profit in May, June, and December – needs attention
 
-- Sub-category Profit:
+- **Sub-category Profit:**
   - Printers and Bookcases are top-performing  
   - Sarees, Accessories, and Tables have relatively lower profit margins
 
