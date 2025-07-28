@@ -56,7 +56,7 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 
 | File Name                 | Description                             |
 |--------------------------|-----------------------------------------|
-| `PBI_Ecommerce_Sales.pbix` | Power BI dashboard file             |
+| `Ecommerce_Sales.pbix` | Power BI dashboard file             |
 | `Orders.csv`             | Contains order, customer, and transaction data |
 | `Details.csv`            | Contains product category & sub-category data |
 | `PBI_Dashboard_SS.png`   | Screenshot of the Power BI dashboard     |
