@@ -15,46 +15,46 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 
 ---
 
-## 📊 Key Dashboard Insights
+##  Key Dashboard Insights
 
-- **🔢 KPI Cards:**
-  - 💰 Total Sales: ₹438K
-  - 📈 Total Profit: ₹37K
-  - 📦 Quantity Sold: 5615
-  - 🧮 Average Order Value (AOV): ₹121K
+- ** KPI Cards:**
+  -  Total Sales: ₹438K
+  -  Total Profit: ₹37K
+  -  Quantity Sold: 5615
+  -  Average Order Value (AOV): ₹121K
 
-- **🌍 Regional Performance:**
+- ** Regional Performance:**
   - Top States by Sales: Maharashtra, Madhya Pradesh, Uttar Pradesh
 
-- **👥 Top Customers:**
+- ** Top Customers:**
   - Harinarayan and Madhu are high-value customers by order value
 
-- **📦 Category Performance:**
-  - 🧥 Clothing: 63% of total quantity sold  
-  - 📱 Electronics: 21%  
-  - 🛋️ Furniture: 17%
+- ** Category Performance:**
+  -  Clothing: 63% of total quantity sold  
+  -  Electronics: 21%  
+  -  Furniture: 17%
 
-- **💳 Payment Mode Distribution:**
+- ** Payment Mode Distribution:**
   - COD (Cash on Delivery): 44%
   - UPI: 21%
   - Debit Card: 13%
   - Credit Card: 12%
   - EMI: 10%
 
-- **📆 Profit Trends (Monthly):**
+- ** Profit Trends (Monthly):**
   - Highest profits in January, March, and November  
   - Negative profit in May, June, and December – needs attention
 
-- **📚 Sub-category Profit:**
+- ** Sub-category Profit:**
   - Printers and Bookcases are top-performing  
   - Sarees, Accessories, and Tables have relatively lower profit margins
 
-- **🎛️ Interactive Filters:**
+- **🎛 Interactive Filters:**
   - Quarter and State slicers for drilling down into specific views
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 | File Name                 | Description                             |
 |--------------------------|-----------------------------------------|
@@ -66,13 +66,13 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Screenshot](PBI_Dashboard_SS.png)
 
 ---
 
-## 🧠 Business Questions Answered
+##  Business Questions Answered
 
 - Who are my top customers?
 - What product categories are most popular?
@@ -83,7 +83,7 @@ The goal of this project is to **analyze and visualize ecommerce data** from Ord
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Power BI Desktop
 - CSV files for data import
